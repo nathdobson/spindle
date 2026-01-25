@@ -1,0 +1,3 @@
+[package]
+name="spindle"
+edition = "2024"
